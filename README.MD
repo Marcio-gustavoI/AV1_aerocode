@@ -40,16 +40,16 @@ Para rodar este projeto, você precisará ter instalado em sua máquina:
 
 **Permissão de acesso no sistema:** O engenheiro não tem acesso à opção 1 (Cadastrar aeronave). Das opções 2 a 9 o acesso é liberado. 
 
-* 1. Cadastrar aeronave ❌
-* 2. Listar aeronaves ✅
-* 3. Adicionar peça a aeronave ✅
-* 4. Adicionar etapa a aeronave ✅
-* 5. Adicionar funcionario a etapa ✅
-* 6. Registrar teste em aeronave ✅
-* 7. Gerar relatorio final ✅
-* 8. Atualizar status de Etapa ✅
-* 9. Atualizar status de Peça ✅
-* 0. Sair ✅
+ 1 Cadastrar aeronave ❌
+ 2 Listar aeronaves ✅
+ 3 Adicionar peça a aeronave ✅
+ 4 Adicionar etapa a aeronave ✅
+ 5 Adicionar funcionario a etapa ✅
+ 6 Registrar teste em aeronave ✅
+ 7 Gerar relatorio final ✅
+ 8 Atualizar status de Etapa ✅
+ 9 Atualizar status de Peça ✅
+ 0 Sair ✅
 
 ### Nível Operador
 **Usuário:** operador  
@@ -57,16 +57,16 @@ Para rodar este projeto, você precisará ter instalado em sua máquina:
 
 **Permissão de acesso no sistema:** O operador não tem acesso às opções 1, 3, 4, 5, 6 e 7. Para as opções 2, 8 e 9 o acesso é liberado.
 
-* 1. Cadastrar aeronave ❌
-* 2. Listar aeronaves ✅
-* 3. Adicionar peça a aeronave ❌
-* 4. Adicionar etapa a aeronave ❌
-* 5. Adicionar funcionario a etapa ❌
-* 6. Registrar teste em aeronave ❌
-* 7. Gerar relatorio final ❌
-* 8. Atualizar status de Etapa ✅
-* 9. Atualizar status de Peça ✅
-* 0. Sair ✅
+ 1 Cadastrar aeronave ❌
+ 2 Listar aeronaves ✅
+ 3 Adicionar peça a aeronave ❌
+ 4 Adicionar etapa a aeronave ❌
+ 5 Adicionar funcionario a etapa ❌
+ 6 Registrar teste em aeronave ❌
+ 7 Gerar relatorio final ❌
+ 8 Atualizar status de Etapa ✅
+ 9 Atualizar status de Peça ✅
+ 0 Sair ✅
 
 ## Estrutura do projeto
 
